@@ -1,0 +1,63 @@
+,#,Name,Type 1,Type 2,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Legendary
+0,1,Bulbasaur,Grass,Poison,45,49,49,65,65,45,1,False
+1,2,Ivysaur,Grass,Poison,60,62,63,80,80,60,1,False
+2,3,Venusaur,Grass,Poison,80,82,83,100,100,80,1,False
+3,3,VenusaurMega Venusaur,Grass,Poison,80,100,123,122,120,80,1,False
+16,13,Weedle,Bug,Poison,40,35,30,20,20,50,1,False
+17,14,Kakuna,Bug,Poison,45,25,50,25,25,35,1,False
+18,15,Beedrill,Bug,Poison,65,90,40,45,80,75,1,False
+19,15,BeedrillMega Beedrill,Bug,Poison,65,150,40,15,80,145,1,False
+28,23,Ekans,Poison,,35,60,44,40,54,55,1,False
+29,24,Arbok,Poison,,60,85,69,65,79,80,1,False
+34,29,Nidoran (Female),Poison,,55,47,52,40,40,41,1,False
+35,30,Nidorina,Poison,,70,62,67,55,55,56,1,False
+36,31,Nidoqueen,Poison,Ground,90,92,87,75,85,76,1,False
+37,32,Nidoran (Male),Poison,,46,57,40,40,40,50,1,False
+38,33,Nidorino,Poison,,61,72,57,55,55,65,1,False
+39,34,Nidoking,Poison,Ground,81,102,77,85,75,85,1,False
+46,41,Zubat,Poison,Flying,40,45,35,30,40,55,1,False
+47,42,Golbat,Poison,Flying,75,80,70,65,75,90,1,False
+48,43,Oddish,Grass,Poison,45,50,55,75,65,30,1,False
+49,44,Gloom,Grass,Poison,60,65,70,85,75,40,1,False
+50,45,Vileplume,Grass,Poison,75,80,85,110,90,50,1,False
+53,48,Venonat,Bug,Poison,60,55,50,40,55,45,1,False
+54,49,Venomoth,Bug,Poison,70,65,60,90,75,90,1,False
+75,69,Bellsprout,Grass,Poison,50,75,35,70,30,40,1,False
+76,70,Weepinbell,Grass,Poison,65,90,50,85,45,55,1,False
+77,71,Victreebel,Grass,Poison,80,105,65,100,70,70,1,False
+78,72,Tentacool,Water,Poison,40,40,35,50,100,70,1,False
+79,73,Tentacruel,Water,Poison,80,70,65,80,120,100,1,False
+95,88,Grimer,Poison,,80,80,50,40,50,25,1,False
+96,89,Muk,Poison,,105,105,75,65,100,50,1,False
+99,92,Gastly,Ghost,Poison,30,35,30,100,35,80,1,False
+100,93,Haunter,Ghost,Poison,45,50,45,115,55,95,1,False
+101,94,Gengar,Ghost,Poison,60,65,60,130,75,110,1,False
+102,94,GengarMega Gengar,Ghost,Poison,60,65,80,170,95,130,1,False
+117,109,Koffing,Poison,,40,65,95,60,45,35,1,False
+118,110,Weezing,Poison,,65,90,120,85,70,60,1,False
+181,167,Spinarak,Bug,Poison,40,60,40,40,40,30,2,False
+182,168,Ariados,Bug,Poison,70,90,70,60,60,40,2,False
+183,169,Crobat,Poison,Flying,85,90,80,70,80,130,2,False
+227,211,Qwilfish,Water,Poison,65,95,75,55,55,85,2,False
+292,269,Dustox,Bug,Poison,60,50,70,50,90,65,3,False
+344,315,Roselia,Grass,Poison,50,60,45,100,80,65,3,False
+345,316,Gulpin,Poison,,70,43,53,43,53,40,3,False
+346,317,Swalot,Poison,,100,73,83,73,83,55,3,False
+368,336,Seviper,Poison,,73,100,60,100,60,65,3,False
+451,406,Budew,Grass,Poison,40,30,35,50,70,55,4,False
+452,407,Roserade,Grass,Poison,60,70,65,125,105,90,4,False
+482,434,Stunky,Poison,Dark,63,63,47,41,41,74,4,False
+483,435,Skuntank,Poison,Dark,103,93,67,71,61,84,4,False
+501,451,Skorupi,Poison,Bug,40,50,90,30,55,65,4,False
+502,452,Drapion,Poison,Dark,70,90,110,60,75,95,4,False
+503,453,Croagunk,Poison,Fighting,48,61,40,61,40,50,4,False
+504,454,Toxicroak,Poison,Fighting,83,106,65,86,65,85,4,False
+603,543,Venipede,Bug,Poison,30,45,59,30,39,57,5,False
+604,544,Whirlipede,Bug,Poison,40,55,99,40,79,47,5,False
+605,545,Scolipede,Bug,Poison,60,100,89,55,69,112,5,False
+629,568,Trubbish,Poison,,50,50,62,40,62,65,5,False
+630,569,Garbodor,Poison,,80,95,82,60,82,75,5,False
+651,590,Foongus,Grass,Poison,69,55,45,55,55,15,5,False
+652,591,Amoonguss,Grass,Poison,114,85,70,85,80,30,5,False
+760,690,Skrelp,Poison,Water,50,60,60,60,60,30,6,False
+761,691,Dragalge,Poison,Dragon,65,75,90,97,123,44,6,False

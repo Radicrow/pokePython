@@ -10,5 +10,8 @@ df = pd.read_csv('pokemon_data.csv')
 #for index, row in df.iterrows():
 #    print(row[['Name', 'Type 1']])
 
-print(df.loc[(df['Type 1'] == 'Fire') & (df['Type 2'] == 'Dark')])
+poisontypes = df.loc[(df['Type 1'] == 'Poison') | (df['Type 2'] == 'Poison')]
+
+print(poisontypes)
+poisontypes.to_csv('poisontypes.csv')
 

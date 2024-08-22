@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a79b47e7-8d00-4c05-b0a4-3d5a2ee9f69a" name="Changes" comment="First commit :cat:">
-      <change afterPath="$PROJECT_DIR$/pokemon_data.csv" afterDir="false" />
+    <list default="true" id="a79b47e7-8d00-4c05-b0a4-3d5a2ee9f69a" name="Changes" comment="Second commit :cat:">
+      <change afterPath="$PROJECT_DIR$/poisontypes.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
     </list>
@@ -77,7 +77,7 @@
       <updated>1724360173958</updated>
       <workItem from="1724360175851" duration="1280000" />
       <workItem from="1724361475281" duration="136000" />
-      <workItem from="1724361618081" duration="2390000" />
+      <workItem from="1724361618081" duration="3810000" />
     </task>
     <task id="LOCAL-00001" summary="First commit :cat:">
       <option name="closed" value="true" />
@@ -87,7 +87,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724360405366</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Second commit :cat:">
+      <option name="closed" value="true" />
+      <created>1724364545289</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1724364545289</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,9 +103,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit :cat:" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit :cat:" />
+    <MESSAGE value="Second commit :cat:" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second commit :cat:" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/pokePython$Main.coverage" NAME="Main Coverage Results" MODIFIED="1724364519720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pokePython$Main.coverage" NAME="Main Coverage Results" MODIFIED="1724365964183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
